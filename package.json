@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "Practica de estructura de datos en JavaScript",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "license": "MIT",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
